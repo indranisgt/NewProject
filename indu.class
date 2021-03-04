@@ -1,0 +1,5 @@
+class indu{
+public void getdata(){
+System.out.println("my 1st file");
+
+}
